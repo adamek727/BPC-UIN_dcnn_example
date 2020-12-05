@@ -78,4 +78,5 @@ By pressing the Shit + Enter, you can execute the code. Feel free to modify the 
 ## Next Step
 
 More Keras tutorials: [Here](https://keras.io/examples/)
+
 If you are interested in NNs more, see the [Pytorch](https://pytorch.org/), the powerfull framework to work with complex NNs.
