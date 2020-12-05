@@ -1,0 +1,9 @@
+name: bpc-uin-dcnn
+
+dependencies:
+  - python=3.7
+  - tensorflow-gpu
+  #- tensorflow # does not support GPU acceleration
+  - keras
+  - jupyter
+  - matplotlib
