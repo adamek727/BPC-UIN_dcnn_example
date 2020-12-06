@@ -45,19 +45,13 @@ Run installation script.
 $ bash Anaconda3-2020.02-Linux-x86_64.sh
 ```
 
-At the end of installation the following messages may apear:
+At the end of installation the following message will apear:
 
 ```
 Do you wish the installer to initialize Anaconda3
 by running conda init? [yes|no]
 ```
-
-```
-installation finished.
-Do you wish the installer to prepend the Anaconda3 install location
-to PATH in your /home/user/.bashrc ? [yes|no]
-```
-TyFor both type yes.
+Type yes.
 
 Test the installation:
 ```
